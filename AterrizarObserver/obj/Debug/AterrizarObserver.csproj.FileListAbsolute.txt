@@ -1,0 +1,15 @@
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\bin\Debug\AterrizarObserver.exe.config
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\bin\Debug\AterrizarObserver.exe
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\bin\Debug\AterrizarObserver.pdb
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\bin\Debug\BE.dll
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\bin\Debug\Negocio.dll
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\bin\Debug\BE.pdb
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\bin\Debug\Negocio.pdb
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.csproj.AssemblyReference.cache
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.Form1.resources
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.Properties.Resources.resources
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.csproj.GenerateResource.cache
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.csproj.CopyComplete
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.exe
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\AterrizarObserver\obj\Debug\AterrizarObserver.pdb

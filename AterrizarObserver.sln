@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AterrizarObserver", "AterrizarObserver\AterrizarObserver.csproj", "{0CC7F3E9-E09E-4220-A243-F2B30EBDF009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE", "BE\BE.csproj", "{B62B900E-EBE8-4DE7-AE2A-70D98804B2C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{472F23F2-9BDD-4251-8D0B-EA4961532163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC7F3E9-E09E-4220-A243-F2B30EBDF009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC7F3E9-E09E-4220-A243-F2B30EBDF009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC7F3E9-E09E-4220-A243-F2B30EBDF009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC7F3E9-E09E-4220-A243-F2B30EBDF009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62B900E-EBE8-4DE7-AE2A-70D98804B2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62B900E-EBE8-4DE7-AE2A-70D98804B2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62B900E-EBE8-4DE7-AE2A-70D98804B2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62B900E-EBE8-4DE7-AE2A-70D98804B2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472F23F2-9BDD-4251-8D0B-EA4961532163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472F23F2-9BDD-4251-8D0B-EA4961532163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472F23F2-9BDD-4251-8D0B-EA4961532163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472F23F2-9BDD-4251-8D0B-EA4961532163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22AC3302-F11F-46AE-8725-227AC12CC920}
+	EndGlobalSection
+EndGlobal

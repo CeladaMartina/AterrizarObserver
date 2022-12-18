@@ -1,0 +1,6 @@
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\BE\bin\Debug\BE.dll
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\BE\bin\Debug\BE.pdb
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\BE\obj\Debug\BE.dll
+C:\Users\mcelada\Desktop\Campo Diploma Martina 2022\Examenes ejemplos 2022\AterrizarObserver\BE\obj\Debug\BE.pdb
